@@ -8,7 +8,7 @@ ERROR: Condition "err != VK_SUCCESS" is true. Returning: FAILED
 ERROR: Unable to acquire framebuffer.
    at: (servers/rendering/rendering_device.cpp:3199)
 
-This issue is 100% reproducable in Godot 4.3 dev 3, Godot 4.3 dev 4, and presumably in other 4.3 dev branches.
+This issue is 100% reproducible in Godot 4.3 dev 3, Godot 4.3 dev 4, and presumably in other 4.3 dev branches.
 This issue does not occur at all on current stable branch (4.2.1).
 
 # How to use this MRP
