@@ -1,6 +1,7 @@
 # Light-Crash-Issue-MRP
 
-Having many lights on screen in forward+ causes the editor to become fully non-funcitonal, requiring restart.
+Having many lights on screen in forward+ and mobile renderer causes the editor to become fully non-funcitonal, requiring restart.
+Issue does not happen with compatibility renderer.
 
 ERROR: Condition "err != VK_SUCCESS" is true. Returning: FAILED
    at: command_queue_execute_and_present (drivers/vulkan/rendering_device_driver_vulkan.cpp:2214)
