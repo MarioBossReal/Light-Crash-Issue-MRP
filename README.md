@@ -15,6 +15,6 @@ This issue does not occur at all on current stable branch (4.2.1).
 
 - Import the project into a Godot 4.3 editor.
 - Open "light_crash.tscn"
-- Pan the viewport camera around to the right
+- Rotate the viewport camera around to the right
 
 The editor will become non-functional.
